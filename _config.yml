@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Burhan Ahmad Mudassar"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "1002 State St. NW, Apt 3, Atlanta GA 30318"
-  employer         : "Georgia Tech"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Ph.D Student in Green Lab at Georgia Tech"
+  location         : "Atlanta, GA"
+  employer         : 
+  googlescholar    : "https://scholar.google.com/citations?user=J2b77u0AAAAJ&hl=en"
   email            : "burhanahmadmudassar@gmail.com"
   uri              :
   bitbucket        :
@@ -98,14 +98,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/burhan-ahmad-mudassar-88258a51/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "burhan-ahmad-mudassar-88258a51"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -305,4 +305,3 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-cayman
