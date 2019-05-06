@@ -11,5 +11,5 @@ author_profile: true
  
 ### Publications 
 
-<script src="https://bibbase.org/show?"></script>
+<script src="https://bibbase.org/show?bib=https://burhanmudassar.github.io/_publications/my_publications.bib&jsonp=1"></script>
 
