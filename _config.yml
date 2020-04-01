@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Burhan Ahmad Mudassar"
+title                    : "Asif Rana"
 title_separator          : "-"
-name                     : &name "Burhan Ahmad Mudassar"
+name                     : &name "Asif Rana"
 description              : &description "personal description"
-url                      : https://burhanmudassar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mrana6.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "burhanmudassar/burhanmudassar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Burhan Ahmad Mudassar"
+  name             : "Asif Rana"
   avatar           : "bio_crop.png"
-  bio              : "Ph.D Student in Green Lab at Georgia Tech"
+  bio              : "Ph.D Student in ECE at Georgia Tech"
   location         : "Atlanta, GA"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=J2b77u0AAAAJ&hl=en"
-  email            : "burhanahmadmudassar@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=0dQzZH8AAAAJ&hl=en"
+  email            : "asif.rana@gatech.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,12 +93,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "burhanmudassar"
+  github           : "mrana6"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "burhan-ahmad-mudassar-88258a51"
+  linkedin         : "masifrana"
   orcid            : 
   pinterest        :
   soundcloud       :
