@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Burhan Ahmad Mudassar - Home"
+title: "Asif Rana - Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am currently a Ph.D student at Georgia Tech under the supervision of Dr. Saibal Mukhopadhyay. I'm currently in my 3rd year. My research is focused on the development of smart cameras and low-power and low complexity machine learning algorithms for embedded vision applications.
+Hi, I am currently a Ph.D student at Georgia Tech working under the supervision of Dr Sonia Chernova. My thesis work focuses on learning primitive motions (or skills) from human demonstrations. 
